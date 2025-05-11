@@ -1,0 +1,2 @@
+llm_backbone: "../../lora_models/sft/Llama-3.2-3B-Instruct"
+pretrain_model: "../../lora_models/reward/Llama-3.2-3B-Backbone-With-RewardHead"

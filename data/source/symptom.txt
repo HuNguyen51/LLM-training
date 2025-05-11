@@ -1,0 +1,78 @@
+Triệu Chứng
+Sốt (Fever): Nhiệt độ cơ thể tăng cao, thường do nhiễm trùng, viêm hoặc rối loạn tự miễn. Điều trị bằng thuốc hạ sốt, nghỉ ngơi, bù nước.
+
+Ho (Cough): Ho là phản xạ tống không khí ra khỏi phổi, có thể khô hoặc có đờm, thường do nhiễm trùng đường hô hấp. Điều trị tùy nguyên nhân, như thuốc giảm ho hoặc kháng sinh.
+
+Đau đầu (Headache): Cảm giác đau ở đầu, có thể do căng thẳng, mất nước, hoặc viêm xoang. Điều trị bằng thuốc giảm đau, nghỉ ngơi.
+
+Đau bụng (Abdominal pain): Đau ở vùng bụng, nguyên nhân đa dạng như khó tiêu, táo bón, hoặc viêm ruột thừa. Điều trị tùy nguyên nhân, từ thuốc đến phẫu thuật.
+
+Mệt mỏi (Fatigue): Cảm giác mệt mỏi, kiệt sức, do thiếu ngủ, căng thẳng, hoặc bệnh mãn tính. Điều trị bằng nghỉ ngơi, xử lý nguyên nhân gốc rễ.
+
+Chóng mặt (Dizziness): Cảm giác chóng mặt, mất thăng bằng, do rối loạn tai trong, huyết áp thấp, hoặc mất nước. Điều trị tùy nguyên nhân, như bù nước hoặc thuốc.
+
+Đau lưng (Back pain): Đau ở lưng, do căng cơ, thoát vị đĩa đệm, hoặc loãng xương. Điều trị bằng nghỉ ngơi, vật lý trị liệu, hoặc phẫu thuật nếu cần.
+
+Bệnh Lý và Tình Trạng
+Cảm cúm (Influenza): Nhiễm virus đường hô hấp, triệu chứng gồm sốt, ho, đau họng, mệt mỏi. Điều trị bằng nghỉ ngơi, bù nước, thuốc kháng virus nếu cần. Phòng ngừa bằng vắc-xin hàng năm (CDC).
+
+Viêm họng (Pharyngitis): Viêm họng, thường do virus hoặc vi khuẩn, triệu chứng là đau họng, khó nuốt, sốt. Điều trị bằng nghỉ ngơi, nước, kháng sinh nếu do vi khuẩn (Mayo Clinic).
+
+Dị ứng (Allergy): Phản ứng miễn dịch bất thường với chất không gây hại, triệu chứng như phát ban, ngứa, khó thở. Điều trị bằng tránh dị nguyên, thuốc kháng histamine (NIH).
+
+Tiêu chảy (Diarrheaa): Đại tiện lỏng, thường xuyên, do nhiễm trùng, ngộ độc thực phẩm. Điều trị bằng bù nước, điện giải, xử lý nguyên nhân (MedlinePlus).
+
+Táo bón (Constipation): Khó hoặc không thể đi ngoài, do mất nước, thiếu chất xơ. Điều trị bằng tăng nước, chất xơ, thuốc nhuận tràng nếu cần (NIDDK).
+
+Huyết áp (Blood pressure): Lực máu tác động lên thành động mạch, bình thường dưới 120/80 mmHg. Cao huyết áp (>130/80 mmHg) hoặc thấp (<90/60 mmHg) cần thay đổi lối sống, thuốc (AHA).
+
+Tiểu đường (Diabetes): Rối loạn chuyển hóa với đường huyết cao, gồm type 1, type 2, tiểu đường thai kỳ. Triệu chứng: khát nhiều, tiểu nhiều, mệt mỏi. Điều trị bằng insulin, thuốc, chế độ ăn, tập luyện (CDC).
+
+Viêm phổi (Pneumonia): Viêm phổi, thường do vi khuẩn, virus, triệu chứng gồm ho, sốt, đau ngực, khó thở. Điều trị bằng kháng sinh nếu do vi khuẩn, chăm sóc hỗ trợ (CDC).
+
+Nhiễm trùng (Infection): Xâm nhập cơ thể bởi vi sinh vật gây bệnh, gồm vi khuẩn, virus, nấm, ký sinh trùng. Điều trị tùy loại, như kháng sinh, kháng virus (NIH).
+
+Viêm khớp (Arthritis): Viêm khớp, gây đau, cứng khớp, gồm viêm xương khớp, viêm khớp dạng thấp. Điều trị bằng thuốc giảm đau, vật lý trị liệu, thuốc điều chỉnh bệnh (CDC).
+
+Tác Nhân Gây Bệnh
+Vi-rút (Virus): Tác nhân gây bệnh nhỏ, nhân lên trong tế bào sống, gồm virus DNA, RNA. Gây bệnh như cảm lạnh, cúm, COVID-19. Điều trị bằng thuốc kháng virus, vắc-xin phòng ngừa (CDC).
+
+Phương Pháp Điều Trị
+Thuốc kháng sinh (Antibiotics): Thuốc diệt hoặc ức chế vi khuẩn, dùng cho nhiễm trùng vi khuẩn, không hiệu quả với virus (CDC).
+
+Vắc-xin (Vaccine): Chuẩn bị tạo miễn dịch cho bệnh cụ thể, gồm loại sống, bất hoạt, mRNA, v.v. Dùng phòng bệnh truyền nhiễm (CDC).
+
+Ghi Chú Khảo Sát Chi Tiết
+Dưới đây là một phân tích chi tiết về 20 từ liên quan đến y tế và bệnh thông thường, dựa trên các nguồn đáng tin cậy như CDC, WHO, Mayo Clinic, và các tài liệu y khoa khác. Nội dung được tổ chức để cung cấp thông tin toàn diện, bao gồm định nghĩa, nguyên nhân, triệu chứng, điều trị, và phòng ngừa, nhằm hỗ trợ người đọc hiểu rõ hơn về các khía cạnh sức khỏe.
+
+Phân Loại và Phân Tích
+Các từ được chia thành bốn nhóm chính: triệu chứng, bệnh lý/tình trạng, tác nhân gây bệnh, và phương pháp điều trị. Mỗi nhóm được phân tích dựa trên thông tin từ các nguồn như Wikipedia, MedlinePlus, và các tổ chức y tế quốc tế.
+
+Triệu Chứng
+Triệu chứng là những cảm giác chủ quan mà bệnh nhân trải nghiệm, thường là dấu hiệu của vấn đề sức khỏe tiềm ẩn. Dựa trên danh sách từ Wikipedia về triệu chứng y tế, các triệu chứng được liệt kê bao gồm:
+
+Sốt (Fever): Nhiệt độ cơ thể trên 37,5°C, thường do nhiễm trùng như cúm, viêm phổi. Điều trị bằng paracetamol, nghỉ ngơi, và bù nước.
+Ho (Cough): Phản xạ tống không khí, có thể khô hoặc có đờm, thường do nhiễm trùng đường hô hấp, dị ứng, hoặc hen suyễn. Điều trị tùy nguyên nhân, như thuốc giảm ho hoặc kháng sinh nếu do vi khuẩn.
+Đau đầu (Headache): Đau ở đầu, gồm các loại như đau đầu căng thẳng, migraine, do căng thẳng, mất nước, hoặc viêm xoang. Điều trị bằng ibuprofen, nghỉ ngơi, và bù nước.
+Đau bụng (Abdominal pain): Đau ở vùng bụng, nguyên nhân đa dạng như khó tiêu, táo bón, viêm ruột thừa, hoặc ngộ độc thực phẩm. Điều trị từ thuốc như antacid đến phẫu thuật nếu cần.
+Mệt mỏi (Fatigue): Cảm giác mệt mỏi, kiệt sức, do thiếu ngủ, căng thẳng, thiếu máu, hoặc bệnh mãn tính như tiểu đường. Điều trị bằng nghỉ ngơi, cải thiện chế độ ăn, và xử lý nguyên nhân.
+Chóng mặt (Dizziness): Cảm giác chóng mặt, mất thăng bằng, gồm vertigo, presyncope, do rối loạn tai trong, huyết áp thấp, hoặc mất nước. Điều trị tùy nguyên nhân, như bù nước, thuốc chống chóng mặt.
+Đau lưng (Back pain): Đau ở lưng, do căng cơ, thoát vị đĩa đệm, loãng xương, hoặc chấn thương. Điều trị bằng nghỉ ngơi, vật lý trị liệu, thuốc giảm đau, hoặc phẫu thuật nếu nghiêm trọng.
+Bệnh Lý và Tình Trạng
+Dựa trên danh sách bệnh lý từ NHS inform và CDC, các bệnh lý được phân tích như sau:
+
+Cảm cúm (Influenza): Nhiễm virus cúm, triệu chứng gồm sốt, ho, đau họng, mệt mỏi, đau cơ, thường kéo dài 2-8 ngày. Điều trị bằng nghỉ ngơi, bù nước, thuốc kháng virus như oseltamivir nếu cần, phòng ngừa bằng vắc-xin hàng năm (CDC).
+Viêm họng (Pharyngitis): Viêm họng, thường do virus hoặc vi khuẩn như liên cầu, triệu chứng là đau họng, khó nuốt, sốt. Điều trị bằng nghỉ ngơi, nước, kháng sinh nếu do vi khuẩn (Mayo Clinic).
+Dị ứng (Allergy): Phản ứng miễn dịch bất thường, gồm dị ứng thực phẩm, phấn hoa, thuốc, triệu chứng như phát ban, ngứa, khó thở, sốc phản vệ. Điều trị bằng tránh dị nguyên, thuốc kháng histamine, epinephrine cho phản ứng nặng (NIH).
+Tiêu chảy (Diarrheaa): Đại tiện lỏng, thường xuyên, do nhiễm trùng, ngộ độc thực phẩm, hoặc IBS, triệu chứng gồm mất nước, mệt mỏi. Điều trị bằng bù nước, điện giải, xử lý nguyên nhân (MedlinePlus).
+Táo bón (Constipation): Khó hoặc không đi ngoài, do mất nước, thiếu chất xơ, thuốc, hoặc bệnh lý như hypothyroidism. Điều trị bằng tăng nước, chất xơ, thuốc nhuận tràng nếu cần (NIDDK).
+Huyết áp (Blood pressure): Lực máu tác động lên thành động mạch, bình thường <120/80 mmHg, cao huyết áp (>130/80 mmHg) hoặc thấp (<90/60 mmHg) cần thay đổi lối sống, thuốc. Điều trị tùy tình trạng, như thuốc chẹn beta cho cao huyết áp (AHA).
+Tiểu đường (Diabetes): Rối loạn chuyển hóa với đường huyết cao, gồm type 1 (thiếu insulin), type 2 (kháng insulin), tiểu đường thai kỳ. Triệu chứng: khát nhiều, tiểu nhiều, mệt mỏi, mờ mắt. Điều trị bằng insulin, metformin, chế độ ăn, tập luyện (CDC).
+Viêm phổi (Pneumonia): Viêm phổi, thường do vi khuẩn như Streptococcus pneumoniae, virus, triệu chứng gồm ho, sốt, đau ngực, khó thở. Điều trị bằng kháng sinh nếu do vi khuẩn, chăm sóc hỗ trợ (CDC).
+Nhiễm trùng (Infection): Xâm nhập cơ thể bởi vi sinh vật, gồm vi khuẩn, virus, nấm, ký sinh trùng, triệu chứng tùy vị trí và loại. Điều trị bằng kháng sinh, kháng virus, chống nấm, tùy nguyên nhân (NIH).
+Viêm khớp (Arthritis): Viêm khớp, gồm viêm xương khớp (do hao mòn), viêm khớp dạng thấp (tự miễn), gout, triệu chứng là đau, cứng khớp. Điều trị bằng thuốc giảm đau, vật lý trị liệu, thuốc điều chỉnh bệnh như methotrexate (CDC).
+Tác Nhân Gây Bệnh
+Vi-rút (Virus): Tác nhân gây bệnh nhỏ, nhân lên trong tế bào sống, gồm virus DNA, RNA, gây bệnh như cảm lạnh, cúm, COVID-19, viêm gan. Điều trị bằng thuốc kháng virus, phòng ngừa bằng vắc-xin (CDC).
+Phương Pháp Điều Trị
+Thuốc kháng sinh (Antibiotics): Thuốc diệt hoặc ức chế vi khuẩn, dùng cho nhiễm trùng vi khuẩn, không hiệu quả với virus, gồm penicillin, cephalosporin, macrolide, v.v. Lưu ý: lạm dụng dẫn đến kháng kháng sinh (CDC).
+Vắc-xin (Vaccine): Chuẩn bị tạo miễn dịch, gồm loại sống, bất hoạt, subunit, mRNA, dùng phòng bệnh như sởi, cúm, COVID-19. Hiệu quả cao, nhưng cần cập nhật thường xuyên (CDC).

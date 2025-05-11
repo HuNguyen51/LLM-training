@@ -1,0 +1,100 @@
+1. Cảm lạnh thông thường (Common Cold)
+Định nghĩa: Nhiễm virus đường hô hấp trên, chủ yếu ảnh hưởng đến mũi và họng.
+Triệu chứng: Nghẹt mũi, chảy nước mũi, hắt hơi, đau họng nhẹ, ho nhẹ, mệt mỏi.
+Nguyên nhân: Do hơn 200 loại virus, phổ biến nhất là rhinovirus, lây qua giọt bắn hoặc tiếp xúc bề mặt.
+Cách điều trị: Nghỉ ngơi, uống nhiều nước, thuốc giảm triệu chứng (thuốc thông mũi, giảm đau), không dùng kháng sinh vì không hiệu quả với virus.
+2. Đau nửa đầu (Migraine)
+Định nghĩa: Rối loạn thần kinh gây đau đầu dữ dội, thường ở một bên đầu.
+Triệu chứng: Đau nhói, buồn nôn, nhạy cảm với ánh sáng/âm thanh, đôi khi có dấu hiệu báo trước (aura).
+Nguyên nhân: Do di truyền, căng thẳng, thay đổi hormone, thiếu ngủ, hoặc kích thích từ thực phẩm (rượu, caffeine).
+Cách điều trị: Thuốc giảm đau (ibuprofen), thuốc đặc trị (triptans), nghỉ ngơi ở nơi tối và yên tĩnh, thay đổi lối sống.
+3. Viêm xoang (Sinusitis)
+Định nghĩa: Viêm các xoang cạnh mũi, thường do nhiễm trùng hoặc dị ứng.
+Triệu chứng: Nghẹt mũi, đau mặt, chảy dịch mũi (xanh/vàng), giảm khứu giác, sốt nhẹ.
+Nguyên nhân: Virus, vi khuẩn, nấm, hoặc dị ứng làm tắc nghẽn xoang.
+Cách điều trị: Thuốc thông mũi, rửa mũi bằng nước muối, kháng sinh nếu do vi khuẩn, nghỉ ngơi.
+4. Viêm dạ dày (Gastritis)
+Định nghĩa: Viêm niêm mạc dạ dày, gây khó chịu hoặc đau.
+Triệu chứng: Đau thượng vị, buồn nôn, nôn, đầy hơi, ợ nóng.
+Nguyên nhân: Nhiễm Helicobacter pylori, dùng NSAID lâu dài (aspirin), rượu, stress.
+Cách điều trị: Thuốc giảm acid (PPI), kháng sinh nếu có H. pylori, tránh thực phẩm kích ứng (cay, chua).
+5. Viêm da tiếp xúc (Contact Dermatitis)
+Định nghĩa: Viêm da do tiếp xúc với chất gây kích ứng hoặc dị ứng.
+Triệu chứng: Phát ban đỏ, ngứa, phồng rộp, khô da tại vùng tiếp xúc.
+Nguyên nhân: Chất kích ứng (xà phòng, hóa chất) hoặc dị ứng (kim loại, thực vật như ivy độc).
+Cách điều trị: Rửa sạch vùng da, dùng kem steroid, tránh tiếp xúc với tác nhân gây bệnh.
+6. Loét miệng (Canker Sores)
+Định nghĩa: Vết loét nhỏ, đau ở niêm mạc miệng hoặc môi.
+Triệu chứng: Đau, đỏ, vết loét trắng/vàng, khó ăn uống.
+Nguyên nhân: Không rõ, có thể do stress, chấn thương, thiếu vitamin (B12, sắt), hoặc thực phẩm chua.
+Cách điều trị: Súc miệng nước muối, dùng gel giảm đau tại chỗ, tự lành sau 1-2 tuần.
+7. Viêm tai giữa (Otitis Media)
+Định nghĩa: Nhiễm trùng hoặc viêm tai giữa, thường gặp ở trẻ em.
+Triệu chứng: Đau tai, sốt, giảm thính lực, chảy mủ tai (nếu thủng màng nhĩ).
+Nguyên nhân: Vi khuẩn hoặc virus sau cảm lạnh, tắc ống Eustachian.
+Cách điều trị: Thuốc giảm đau, kháng sinh nếu do vi khuẩn, theo dõi (thường tự khỏi).
+8. Phát ban nhiệt (Heat Rash)
+Định nghĩa: Tắc nghẽn ống mồ hôi gây phát ban trên da.
+Triệu chứng: Đốm đỏ nhỏ, ngứa, cảm giác châm chích ở vùng da nóng.
+Nguyên nhân: Thời tiết nóng ẩm, mặc quần áo kín, đổ mồ hôi nhiều.
+Cách điều trị: Giữ da mát và khô, mặc quần áo thoáng, tránh bôi kem dày.
+9. Chuột rút (Muscle Cramps)
+Định nghĩa: Co cơ đột ngột, không tự chủ, gây đau.
+Triệu chứng: Đau nhói, cơ cứng, thường ở chân hoặc bàn chân.
+Nguyên nhân: Mất nước, thiếu khoáng (kali, magiê), tập thể dục quá mức.
+Cách điều trị: Kéo giãn cơ, massage, bù nước và điện giải, nghỉ ngơi.
+10. Nhiễm trùng đường tiết niệu (Urinary Tract Infection - UTI)
+Định nghĩa: Nhiễm trùng ở bàng quang, niệu đạo hoặc thận.
+Triệu chứng: Tiểu buốt, tiểu gấp, nước tiểu đục, đau hạ vị, sốt (nếu nặng).
+Nguyên nhân: Vi khuẩn (thường là E. coli) từ đường tiêu hóa vào niệu đạo.
+Cách điều trị: Kháng sinh (nitrofurantoin), uống nhiều nước, vệ sinh đúng cách.
+11. Viêm kết mạc (Conjunctivitis)
+Định nghĩa: Viêm màng kết mạc mắt, còn gọi là "đau mắt đỏ".
+Triệu chứng: Đỏ mắt, ngứa, chảy nước mắt, có ghèn.
+Nguyên nhân: Virus, vi khuẩn, dị ứng, hoặc chất kích ứng.
+Cách điều trị: Rửa mắt bằng nước muối, thuốc nhỏ mắt (kháng sinh nếu do vi khuẩn), tránh lây lan.
+12. Zona thần kinh (Shingles)
+Định nghĩa: Nhiễm virus varicella-zoster gây phát ban đau ở một vùng da.
+Triệu chứng: Đau, ngứa, phồng rộp dọc dây thần kinh, sốt nhẹ.
+Nguyên nhân: Virus thủy đậu tái hoạt động khi miễn dịch suy yếu.
+Cách điều trị: Thuốc kháng virus (acyclovir), giảm đau, vắc-xin phòng ngừa.
+13. Nấm da (Ringworm)
+Định nghĩa: Nhiễm nấm trên da, không phải do giun.
+Triệu chứng: Vòng đỏ, ngứa, có vảy, lan rộng.
+Nguyên nhân: Nấm dermatophytes, lây qua tiếp xúc da hoặc vật dụng.
+Cách điều trị: Kem chống nấm (clotrimazole), giữ da khô sạch, tránh lây lan.
+14. Trào ngược dạ dày (GERD)
+Định nghĩa: Acid dạ dày trào ngược lên thực quản.
+Triệu chứng: Ợ nóng, đau ngực, khó nuốt, vị chua miệng.
+Nguyên nhân: Cơ thắt thực quản yếu, ăn quá no, béo phì, hoặc nằm ngay sau ăn.
+Cách điều trị: Thuốc giảm acid (PPI), thay đổi lối sống (tránh đồ cay, ăn ít).
+15. Viêm bàng quang (Cystitis)
+Định nghĩa: Viêm bàng quang, thường do nhiễm trùng.
+Triệu chứng: Tiểu đau, tiểu gấp, đau hạ vị, nước tiểu đục.
+Nguyên nhân: Vi khuẩn (E. coli), ít uống nước, vệ sinh kém.
+Cách điều trị: Kháng sinh, uống nhiều nước, tránh chất kích thích (caffeine).
+16. Đau cổ vai gáy (Neck and Shoulder Pain)
+Định nghĩa: Đau hoặc cứng ở vùng cổ và vai, thường do tư thế.
+Triệu chứng: Đau, cứng cơ, khó xoay cổ, đôi khi lan xuống tay.
+Nguyên nhân: Ngồi sai tư thế, căng thẳng, chấn thương nhẹ.
+Cách điều trị: Vật lý trị liệu, massage, thuốc giảm đau, cải thiện tư thế.
+17. Sỏi thận (Kidney Stones)
+Định nghĩa: Tinh thể khoáng chất hình thành trong thận hoặc niệu quản.
+Triệu chứng: Đau lưng/hạ sườn dữ dội, tiểu máu, buồn nôn.
+Nguyên nhân: Mất nước, chế độ ăn nhiều muối/đạm, di truyền.
+Cách điều trị: Uống nhiều nước, thuốc giảm đau, tán sỏi nếu lớn.
+18. Viêm lợi (Gingivitis)
+Định nghĩa: Viêm nướu do mảng bám răng.
+Triệu chứng: Nướu đỏ, sưng, chảy máu khi đánh răng, hôi miệng.
+Nguyên nhân: Vệ sinh răng miệng kém, vi khuẩn tích tụ.
+Cách điều trị: Đánh răng/súc miệng đúng cách, cạo vôi răng, kháng sinh nếu nặng.
+19. Hen suyễn (Asthma)
+Định nghĩa: Bệnh mãn tính gây co thắt đường thở.
+Triệu chứng: Khò khè, khó thở, tức ngực, ho (đặc biệt ban đêm).
+Nguyên nhân: Dị ứng (phấn hoa, lông thú), nhiễm trùng, gắng sức.
+Cách điều trị: Thuốc giãn phế quản (salbutamol), tránh kích ứng, corticoid nếu cần.
+20. Chân tay miệng (Hand, Foot, and Mouth Disease)
+Định nghĩa: Nhiễm virus ở trẻ nhỏ, gây tổn thương da và miệng.
+Triệu chứng: Sốt, loét miệng, phát ban ở tay/chân, mệt mỏi.
+Nguyên nhân: Virus Coxsackie hoặc Enterovirus, lây qua tiếp xúc.
+Cách điều trị: Nghỉ ngơi, bù nước, thuốc giảm đau, tự khỏi sau 7-10 ngày.

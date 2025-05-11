@@ -1,0 +1,16 @@
+sft_model: '../../lora_models/sft/Llama-3.2-3B-Instruct'
+llm_backbone: '../../lora_models/sft/Llama-3.2-3B-Instruct'
+reward_model: '../../lora_models/reward/Llama-3.2-3B-Backbone-With-RewardHead'
+ppo_pretrain_model: '../../lora_models/ppo/Llama-3.2-3B-Instruct'
+
+ppo:
+    num_ppo_epochs: 4
+    kl_coef: 0.05
+    kl_estimator: 'k1'
+    cliprange: 0.2
+    vf_coef: 0.1
+    cliprange_value: 0.2
+    gamma: 1.0
+    lam: 0.95
+    per_device_train_batch_size: 1
+    gradient_accumulation_steps: 2
